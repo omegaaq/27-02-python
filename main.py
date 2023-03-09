@@ -14,4 +14,6 @@ if login == 'abc' and password == '123':
     print('success')
 
 print('some work in branch test')
+print('1')
+print('2')
 
