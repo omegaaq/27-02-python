@@ -9,3 +9,5 @@ print('while end')
 
 def func():
     print('bla bla')
+
+print('check cherry')
