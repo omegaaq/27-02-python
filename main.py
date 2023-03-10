@@ -10,6 +10,10 @@ print('while end')
 def func():
     print('bla bla')
 
+
+print('check cherry')
+
 print('check cherry')
 print('check cherry2')
 print('from github ')
+
